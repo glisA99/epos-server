@@ -1,1 +1,1 @@
-# epos-server
+# Simple RESTful web service
